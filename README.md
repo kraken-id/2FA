@@ -1,2 +1,2 @@
-## Kraken.id 2FA :kraken:
+## Kraken.id 2FA 🐙
 ### Directory
